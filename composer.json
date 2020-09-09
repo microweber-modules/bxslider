@@ -1,0 +1,17 @@
+{
+  "name": "microweber-modules/bxslider",
+  "description": "BX Slider",
+  "license": "MIT",
+  "homepage": "https://microweber.org/modules/microweber-modules/bxslider",
+  "authors": [
+    {
+      "name": "Bozhidar Slaveykov",
+      "email": "bobi@microweber.com"
+    }
+  ],
+  "keywords": [
+    "bxslider"
+  ],
+  "type": "microweber-module",
+  "target-dir": "bxslider"
+}
